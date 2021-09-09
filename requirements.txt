@@ -1,0 +1,3 @@
+pyWinhook
+pythoncom
+pyautogui
